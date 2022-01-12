@@ -1,5 +1,5 @@
 # RLS-urchin-tropicalization
-Analysis of fish community thermal compositions at kelp and sea urchin barren sites across temperate latitudes from Reef Life Survey community survey data.
+Analysis of fish community thermal compositions at kelp and sea urchin barren sites across temperate latitudes from Reef Life Survey community data.
 All scripts to run analyses and processed data are included.
 
 All data are available at https://doi.org/10.5061/dryad.2jm63xsr0 on publication.
