@@ -1,6 +1,6 @@
 # RLS-urchin-tropicalization
 
-R script for publication: Schuster, J.M., Stuart-Smith, R.D., Edgar, G. & Bates, A.E. (2022). Tropicalization of temperate reef fish communities facilitated by urchin grazing and diversity of thermal affinities. Global Ecology and Biogeography. DOI: 10.1111/geb.13477
+R script for publication: Schuster, J.M., Stuart-Smith, R.D., Edgar, G. & Bates, A.E. (2022). Tropicalization of temperate reef fish communities facilitated by urchin grazing and diversity of thermal affinities. Global Ecology and Biogeography. DOI: https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13477
 
 Analysis of fish community thermal compositions at kelp and sea urchin barren sites across temperate latitudes from Reef Life Survey community data.
 All scripts to run analyses and processed data are included.
