@@ -20,6 +20,9 @@ Site_Metadata<-aggregate(TotalAbundance~SiteCode+ECOregion+SiteLat+SiteLong+Surv
 
 ####### Weekly SST Temperature ########
 # EXTRACT TEMPERATURES AT EACH RLS SURVEY SITE
+library('raster')
+library("RNetCDF")
+library("abind")
 
 weekly_sst<-open.nc("sst_wkmean_1981-March2019.nc")
 sst<-read.nc(weekly_sst,unpack=T)
